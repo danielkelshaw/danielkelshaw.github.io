@@ -1,0 +1,19 @@
+.bib {
+  line-height: 1.35;
+  margin-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 1em;
+  width: 75%;
+}
+
+h1.nopad, h4.nopad {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.inline {
+  display: inline-block;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 0;
+}
