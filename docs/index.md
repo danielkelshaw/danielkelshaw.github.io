@@ -42,6 +42,10 @@ NASA JPL, ESA, MindFoundry, Dyson, and BAE Systems.
     </h3>
     //
     <h3 style="display: inline-block; margin-left: 1em; margin-right: 1em">
+    <a href="cv.pdf">CV</a>
+    </h3>
+    //
+    <h3 style="display: inline-block; margin-left: 1em; margin-right: 1em">
     <a href="contact">Contact</a>
     </h3>
 </center>
